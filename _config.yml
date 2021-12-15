@@ -58,7 +58,7 @@ reCaptcha:
   secret:
 atom_feed:
   path:                    # blank (default) uses feed.xml
-  hide:                    # true, false (default)
+  hide:                    true # true, false (default)
 search: true                    # true, false (default)
 search_full_content:       # true, false (default)
 search_provider:           # lunr (default), algolia, google
@@ -104,7 +104,7 @@ analytics:
 author:
   name: Jerry
   avatar:            # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: A mind forever Voyaging through strange seas of thoughts.
+  bio: "月华同你独处，我与夜，各守一方。"
   location: 悉尼/深圳
   email: dusk2ddawn@gmail.com
   links:
@@ -289,6 +289,8 @@ defaults:
       related: true
       show_date: true
       toc_label: 目录
+      toc: true
+      toc_sticky: true
    # _pages
   - scope:
       path: ''
@@ -296,6 +298,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  - scope:
+      path: '_posts/机器学习'
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      header:
+        overlay_image: "./assets/images/ai.jpg"
+        caption: 'Photo credit: [**winxtech**](https://winxtech.com/machine-learning-services)'
 date_format: '%Y-%m-%d'
 

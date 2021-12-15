@@ -1,1 +1,1 @@
-Chinese version of the github.io
+我的 Github page 中文版
