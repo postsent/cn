@@ -1,11 +1,10 @@
 main:
-  - title: "Posts"
+  - title: "帖子"
     url: /posts/
-  - title: "Categories"
+  - title: "分类"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "关于"
     url: /about/
-  - title: "EN"
-    url: "https://postsent.github.io"
+  - title: "EN/英文"
+    url: "http://postsent.github.io" # myurl
+    description: "Switch to English"
