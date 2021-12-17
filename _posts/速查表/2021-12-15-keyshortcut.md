@@ -18,3 +18,9 @@ categories:
 |:-------| :--------------------------| 
 |``ctrl + d`` | 选择下一个相同高亮的词|
 |``ctrl + shift + l`` | 全选相同高亮的词|
+|``ctrl+shift+p`` + type``transform``| 转化到title case, all uppercase(大写), etc|
+# Onenote
+| 快捷键 |  用处                       |  
+|:-------| :--------------------------| 
+|``ctrl + alt + + `` | 展开侧边栏|
+|``alt + + -`` | 收起侧边栏|
