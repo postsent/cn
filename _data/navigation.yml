@@ -8,7 +8,7 @@ main:
   - title: "Jupyter Notebook"
     url: "http://postsent.github.io/nb"
   - title: "EN/英文"
-    url: "http://postsent.github.io/en" # myurl
+    url: "http://postsent.github.io" # myurl
     description: "Switch to English"
 
 notebooks:
