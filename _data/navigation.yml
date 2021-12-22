@@ -9,10 +9,12 @@ main:
     url: "http://postsent.github.io/nb"
   - title: "关于"
     url: /about/
+  - title: "评论"
+    url: "http://postsent.github.io/gh-page-comments"
   - title: "EN/英文"
     url: "http://postsent.github.io" # myurl
     description: "Switch to English"
-
+  
 notebooks:
   - title: "Machine Learning"
     url: /notebooks/intro/
