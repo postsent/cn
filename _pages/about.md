@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "关于"
-layout: tags
+layout: single_sidebar
 ---
 
 Hi~ o(*￣▽￣*)ブ， 这里是我的博客.

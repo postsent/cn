@@ -16,9 +16,9 @@ last_modified_at: 2021-12-15
 > Data mining is the extraction of implicit, previously unknown, and potentially useful information from data.
 
 机器学习项目流程
-<img src="/assets/images/ml-pipeline.png">
+<img src="{{ site.baseurl }}/assets/images/ml-pipeline.png">
 监督和无监督学习示意图
-<img src="/assets/images/ml-super-unsuper.png">
+<img src="{{ site.baseurl }}/assets/images/ml-super-unsuper.png">
 
 
 # 回归
