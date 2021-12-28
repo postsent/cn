@@ -25,6 +25,7 @@ last_modified_at: 2021-12-17
 |``ctrl + d`` | 选择下一个相同高亮的词|
 |``ctrl + shift + l`` | 全选相同高亮的词|
 |``ctrl+shift+p`` + type``transform``| 转化到title case, all uppercase(大写), etc|
+|shift + alt + i| 给所有所选行插入箭头|
 
 # Onenote
 
