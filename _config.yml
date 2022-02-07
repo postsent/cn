@@ -104,7 +104,7 @@ analytics:
 author:
   name: Jerry
   avatar: /assets/images/bio-photo.jpg          # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "月华同你独处，我与夜，各守一方。"
+  bio: 不在维护状态 # "月华同你独处，我与夜，各守一方。"
   location: 悉尼/深圳
   email: dusk2ddawn@gmail.com
   links:
